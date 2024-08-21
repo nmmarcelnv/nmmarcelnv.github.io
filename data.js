@@ -1,5 +1,5 @@
 export const bio = [
-    "Hello there, This is Marcel v. Nguemaha.",
+    "Hello there, This is Marcel V. Nguemaha.",
     `Experienced Health Data scientist .`,
     `Eager to apply my technical expertise and in-depth
     health understanding to drive impactful contributions and exceed expectations in challenging projects.`,
@@ -247,11 +247,11 @@ export const footer = [
             },
             {
                 text: "GitHub",
-                link: "https://github.com/vinaysomawat",
+                link: "https://github.com/nmmarcelnv",
             },
             {
                 text: "LeetCode",
-                link: "https://leetcode.com/somawatvinay/",
+                link: "https://leetcode.com/nmmarcelnv/",
             },
         ],
     },
@@ -268,7 +268,7 @@ export const footer = [
             },
             {
                 text: "Clone this page",
-                link: "https://github.com/vinaysomawat/vinaysomawat.github.io",
+                link: "https://github.com/nmmarcelnv/nmmarcelnv.github.io",
             },
         ],
     },
@@ -277,11 +277,11 @@ export const footer = [
         data: [
             {
                 text: "Linkedin",
-                link: "https://www.linkedin.com/in/vinaysomawat/",
+                link: "https://www.linkedin.com/in/valery-marcel/",
             },
             {
                 text: "Twitter",
-                link: "https://twitter.com/thesigmakid",
+                link: "https://twitter.com/nmmarcelnv",
             },
             {
                 text: "Buy me a coffee",
@@ -292,7 +292,7 @@ export const footer = [
     {
         label: "copyright-text",
         data: [
-            "Made with &hearts; by Vinay Somawat.",
+            "Made with &hearts; by Marcel V. Nguemaha",
             "&copy; No Copyrights. Feel free to use this template.",
         ],
     },
