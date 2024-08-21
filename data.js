@@ -27,7 +27,7 @@ export const skills = [
     },
     {
         title: "Design",
-        skillName: "HTML, Bootstrap, Tailwind",
+        skillName: "HTML, Bootstrap",
         color: "4",
         percentage: "70",
     },
