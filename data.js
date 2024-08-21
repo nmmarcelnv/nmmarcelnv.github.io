@@ -1,21 +1,27 @@
 export const bio = [
-    "Hello there, This is Vinay Somawat.",
-    `Experienced Frontend Software Engineer with a strong track record of successfully upgrading applications, optimizing performance, and delivering innovative solutions.`,
+    "Hello there, This is Marcel v. Nguemaha.",
+    `Experienced Health Data scientist .`,
     `Eager to apply my technical expertise and in-depth
-    product understanding to drive impactful contributions and exceed expectations in challenging projects.`,
+    health understanding to drive impactful contributions and exceed expectations in challenging projects.`,
     "Thanks for taking the time to learn a little about me!",
 ];
 
 export const skills = [
     {
         title: "Languages",
-        skillName: "JavaScript, TypeScript",
+        skillName: "Python, SQL, R",
         color: "1",
         percentage: "80",
     },
     {
-        title: "Frameworks/Libraries",
-        skillName: "Angular, RxJS, NGXS",
+        title: "Data and Analytics",
+        skillName: "SK-Learn, Power BI, Pandas",
+        color: "5",
+        percentage: "50",
+    },
+    {
+        title: "Web Development",
+        skillName: "Django, Plotly",
         color: "6",
         percentage: "70",
     },
@@ -27,7 +33,7 @@ export const skills = [
     },
     {
         title: "Version Control",
-        skillName: "GitHub, JIRA, Bitbucket",
+        skillName: "GitHub, Bitbucket",
         color: "7",
         percentage: "70",
     },
@@ -36,12 +42,6 @@ export const skills = [
         skillName: "Postman, Chrome DevTools",
         color: "3",
         percentage: "80",
-    },
-    {
-        title: "Analytics",
-        skillName: "CleverTap, Countly",
-        color: "5",
-        percentage: "50",
     },
     {
         title: "IDE",
@@ -152,19 +152,19 @@ export const projects = {
 
 export const experience = [
     {
-        title: "Shiprocket (Bigfoot Solution Private Limited)",
-        duration: "September 2022 - Present",
-        subtitle: "Software Engineer",
+        title: "Associate Director",
+        duration: "Jan 2024 - Present",
+        subtitle: "Data Scientist",
         details: [
-            "Working in support and escalation team."
+            "Analytics Center of Excellence, Merck"
         ],
-        tags: ["JavaScript", "Angular", "Bootstrap", "Nodejs", "Jenkins"],
+        tags: ["Python", "SQL", "Power BI", "Power Apps", "SKlearn"],
         icon: "truck ",
     },
     {
-        title: "Biofourmis India Private Limited",
+        title: "National Goverment Services, Elevance Health",
         duration: "April 2022 - Jul 2023",
-        subtitle: "Software Engineer",
+        subtitle: "Principal Data Scientist",
         details: [
             `Implemented microfrontends using the Module Federation Plugin in Angular.
             Rendered components from remote modules/repositories, enabling a modular and scalable architecture`,
