@@ -5,7 +5,8 @@ window.addEventListener("DOMContentLoaded", async function () {
     }
 
     document.querySelectorAll(".stack-card").forEach(async function (el) {
-        const userId = el.getAttribute("user-id");
+        //const userId = el.getAttribute("user-id");
+        const userId = el.getAttribute("username");
 
         const response = await get(`https://api.stackexchange.com/2.2/users/${userId}?site=stackoverflow`);
         const user = response.items[0];
