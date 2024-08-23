@@ -163,50 +163,42 @@ export const experience = [
     },
     {
         title: "National Goverment Services, Elevance Health",
-        duration: "April 2022 - Jul 2023",
+        duration: "Aug 2022 - Oct 2023",
         subtitle: "Principal Data Scientist",
         details: [
-            `Implemented microfrontends using the Module Federation Plugin in Angular.
-            Rendered components from remote modules/repositories, enabling a modular and scalable architecture`,
-            `Upgraded application with a dynamic base URL for flexible operation across multiple regions and verticals, leading to
-            recognition with the Biofourmis Bravo award in Q1, 2023.`,
-            `Implemented RxState for managing local state in components, resulting in elegant and reactive facades.`,
-            `Utilized Twilio-Video for group video call rooms and Countly for Web Analytics.`,
-            `Integrated NGXS WebSocket, enhancing state management and replacing legacy service injections.`,
-            `Implemented extensive RxJS usage for reactive programming, resulting in efficient data handling, improved state
-            management, and enhanced application performance.`,
-            `Dramatically optimized load time and performance through code splitting, lazy loading, caching, and preload`,
-            `Enhanced video call experience by implementing real-time switching of I/O devices and audio level indicators,
-            resulting in reduced audio issues and increased user satisfaction.`,
-            `Owned and led successful Angular application upgrades from version 12 to 13 and 14, improving performance
-            and enhancing features.`,
+            `Led an Analytics Data jam in collaboration with the Health Equity Director, leading to a website that was published 
+            and used by more than 20 internal and external stakeholders`,
+            `Spearheaded a research program on intersectionality and Health Equity which is being considered 
+            for $1 million funding proposal from the Center of Medicare and Medicaid Services (CMS)`,
+            `Established a data analytics Lunch & Learn program that currently fosters interdisciplinary collaboration 
+            between more than 15 associates from diverse academic backgrounds.`,
         ],
-        tags: ["JavaScript", "Angular", "RxJS", "NGXS", "TypeScript", "RxState", "Webpack", "Optimization"],
+        tags: ["Python", "SQL", "Pandas", "Jupyter Notebook", "Machine Learning", "Teaching", "Plotly",],
         icon: "heartbeat",
     },
     {
-        title: "Novopay Solutions Private Limited",
-        duration: "June 2020 - April 2022",
-        subtitle: "Software Engineer",
+        title: "Cigna Health",
+        duration: "Sep 2021 - Aug 2022",
+        subtitle: "Senior Data Scientist",
         details: [
-            `Implemented AePS Services, including Bio-metric eKYC, Cash Withdrawal, Balance Enquiry, Mini-Statements,
-            and Money transfer.`,
-            `Implemented QR Code integration for retailer wallet money loading, Clevertap events for user action tracking,
-            Freshdesk ticketing, Chatbot services, and Retailer onboarding/admin interfaces.`,
-            `Developed retailer QR code system for seamless money loading into wallets, resulting in improved user transactions.`,
-            `Achieved 70 percent code coverage of the entire application by writing unit tests for legacy code.`,
+            `Applied NLP and procedure code embeddings to predict future diagnosis codes, thereby anticipating future
+            hospital visits and reducing healthcare provider backlog by 10%.`,
+            `Led 8 data scientists in adopting GitHub and version control best practices, resulting in faster code deployment.`,
+            `Created a Power BI visualization enabling senior leadership to monitor more than 200 KPIs across 6 departments.`,
         ],
-        tags: ["JavaScript", "Angular", "Bootstrap", "Nodejs", "Jenkins"],
+        tags: ["Python", "SQL", "Pandas", "Jupyter Notebook", "Machine Learning", "Teaching", "Plotly",],
         icon: "qrcode",
     },
     {
-        title: "ThinkPedia LLP",
-        duration: "May 2019 - June 2019",
-        subtitle: "SDE Intern",
+        title: "CVS Health",
+        duration: "May 2019 - Sep 2021",
+        subtitle: "Analytic Advisor",
         details: [
-            `Developed a customer web application for social media management, supporting the advertisement domain.`,
+            `Developed a Pharmacy Benefit Management (PBM) algorithm to manage more than 400 client contracts 
+            with an estimated total Average Wholesale Price (AWP) of 20 million US Dollar.`,
+            `Led the migration of Big Data workflows to Google Cloud, resulting in a 40% process performance improvement.`,
         ],
-        tags: ["JavaScript", "Angular", "Bootstrap", "Java", "Spring Boot"],
+        tags: ["Python", "SQL", "Pandas", "Jupyter Notebook", "Machine Learning", "Optimization", "Plotly",],
         icon: "group",
     },
 ];
