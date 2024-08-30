@@ -205,6 +205,14 @@ export const experience = [
 
 export const education = [
     {
+        title: "MPH, Mother and Child Health",
+        duration: "05-2024 - present",
+        subtitle: "Johns Hopkins School of Public Health",
+        details: [],
+        tags: ["Nutrition Insecurity", "Health Equity", "Quality Improvement"],
+        icon: "book",
+    },
+    {
         title: "PhD Physics",
         duration: "2013 - 2018",
         subtitle: "Florida State University, USA",
@@ -218,8 +226,7 @@ export const education = [
             "Computer Programming",
         ],
         icon: "graduation-cap",
-    },
-    {}
+    },    
 ];
 
 export const footer = [
