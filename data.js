@@ -205,28 +205,21 @@ export const experience = [
 
 export const education = [
     {
-        title: "B.Tech. in Computer Science and Engineering",
-        duration: "2016 - 2020",
-        subtitle: "National Institute of Technology, Warangal",
+        title: "PhD Physics",
+        duration: "2013 - 2018",
+        subtitle: "Florida State University, USA",
         details: [],
         tags: [
-            "Data Structures & Algorithms",
-            "Operating Systems",
-            "Database Management System",
-            "Computer Networks",
-            "Compiler Designing",
-            "Cloud Computing",
+            "Protein Modeling",
+            "Data Analysis",
+            "High Performance Computing",
+            "Monte Carlo Simulations",
+            "Algorithm Development",
+            "Computer Programming",
         ],
         icon: "graduation-cap",
     },
-    {
-        title: "Class 12th in Science and Mathematics",
-        duration: "",
-        subtitle: "Board of Secondary Education, Rajasthan",
-        details: [],
-        tags: ["Physics", "Chemistry", "Mathematics"],
-        icon: "book",
-    },
+    {}
 ];
 
 export const footer = [
@@ -235,7 +228,7 @@ export const footer = [
         data: [
             {
                 text: "Stackoverflow",
-                link: "https://stackoverflow.com/users/8461233/vinay-somawat",
+                link: "https://stackoverflow.com/users/5207263/valery-marcel",
             },
             {
                 text: "GitHub",
@@ -277,7 +270,7 @@ export const footer = [
             },
             {
                 text: "Buy me a coffee",
-                link: "https://www.buymeacoffee.com/r194dME8y",
+                link: "https://www.buymeacoffee.com/nmmarcelnv", 
             },
         ],
     },
