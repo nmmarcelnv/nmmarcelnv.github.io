@@ -54,12 +54,12 @@ export const skills = [
 export const projects = {
     webProjects: [
         {
-            projectName: "Programming Diaries",
+            projectName: "USA 2023 National Birth Statistics",
             image: "images/programmingdiaries.png",
             summary:
-                "Developed a full stack blog application to provide content on techical topics across the internet with admin interface.",
-            preview: "https://programmingdiaries.herokuapp.com/",
-            techStack: ["Django", "SQLite", "Bootstrap", "JavaScript", "Heroku"],
+                "Created a Power BI Dashboard to analyze birth outcomes such as low birth weight, low 5 minute APGAR score using data from https://www.cdc.gov/nchs/data_access/vitalstatsonline.htm ",
+            preview: "https://app.powerbi.com/view?r=eyJrIjoiNWFjZjYzZTUtMjAzYS00ZTM5LTk3NzEtM2NmNTk4MGFlYzFiIiwidCI6ImNmNzI0ZGRkLTI2MDQtNDBlZi04ZWM3LTIxZjIxNjYwZTZiYiIsImMiOjF9",
+            techStack: ["Power BI", "Python", "Bash"],
         },
         {
             projectName: "Find Your Bank",
