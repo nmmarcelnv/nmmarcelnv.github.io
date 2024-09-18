@@ -62,11 +62,11 @@ export const projects = {
             techStack: ["Power BI", "Python", "Bash"],
         },
         {
-            projectName: "Find Your Bank",
-            image: "images/findyourbank.png",
+            projectName: "Chronic Kidney Disease and SDOH",
+            image: "images/CKDLogo.png",
             summary:
-                "Coming soon.",
-            preview: "https://github.com/nmmarcelnv/",
+                "Overlay data on Chronic Kidney Disease prevalence with Supplementary Nutrition Assistance Program (SNAP).",
+            preview: "https://app.powerbi.com/view?r=eyJrIjoiNmU4MmM1NzctNzQ2OS00MDRlLTg1ZDQtYjZmZGYwNTdkMzlmIiwidCI6ImNmNzI0ZGRkLTI2MDQtNDBlZi04ZWM3LTIxZjIxNjYwZTZiYiIsImMiOjF9",
             techStack: ["Power BI", "Python", "Bash"],
         },
         {
