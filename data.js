@@ -57,45 +57,95 @@ export const projects = {
             projectName: "USA 2023 National Birth Statistics",
             image: "images/CDCbirths2023.png",
             summary:
-                "Created a Power BI Dashboard to analyze birth outcomes such as low birth weight, low 5 minute APGAR score using data from the CDC",
+                "Created a Power BI Dashboard to analyze birth outcomes such as low birth weight, low 5 minute APGAR score using data from https://www.cdc.gov/nchs/data_access/vitalstatsonline.htm ",
             preview: "https://app.powerbi.com/view?r=eyJrIjoiNWFjZjYzZTUtMjAzYS00ZTM5LTk3NzEtM2NmNTk4MGFlYzFiIiwidCI6ImNmNzI0ZGRkLTI2MDQtNDBlZi04ZWM3LTIxZjIxNjYwZTZiYiIsImMiOjF9",
             techStack: ["Power BI", "Python", "Bash"],
+        },
+        {
+            projectName: "Find Your Bank",
+            image: "images/findyourbank.png",
+            summary:
+                "Developed a React application to render a list of banks fetched from API. Filtered the banks based on queries from localstorage, marked favorites banks.",
+            preview: "https://clever-fermi-0d5d76.netlify.app",
+            techStack: ["Reactjs", "Bootstrap", "JavaScript", "Netlify"],
         },
         {
             projectName: "Web Portfolio",
             image: "images/portfolio.png",
             summary:
                 "Web Portfolio to showcase acadmics, skills, projects and contact details in better manner.",
-            preview: "https://github.com/nmmarcelnv",
-            techStack: ["Git", "Bootstrap", "Python", "SQL"],
+            preview: "https://github.com/vinaysomawat/Travographer-Portal",
+            techStack: ["HTML", "Bootstrap", "JavaScript"],
+        },
+        {
+            projectName: "Resume Builder",
+            image: "images/resume-builder.png",
+            summary:
+                "Browser based editor to build and download Resumes in a customizable templates.",
+            preview: "https://vinaysomawat.github.io/Resume-Builder",
+            techStack: ["HTML", "Bootstrap", "JavaScript"],
         },
     ],
     softwareProjects: [
         {
-            projectName: "Coming",
+            projectName: "Pizza Ordering ChatBot",
             image: "images/pizzaorderchatbot.png",
             summary:
-                "Coming.",
-            preview: "https://github.com/nmmarcelnv",
-            techStack: ["Python", "SQL"],
+                "ChatBot using Dialogflow, Firebase database which stores the chat data in the realtime database.",
+            preview: "https://github.com/vinaysomawat/Pizza-Ordering-ChatBot",
+            techStack: ["Dailogflow", "Firebase"],
         },
         {
             projectName: "WhatsApp-Bot",
             image: "images/whatsappbot.jpg",
             summary:
-                "Coming Soon",
+                "Python script which helps to send messages to WhatsApp contacts automatically using selenium and web automation.",
             preview: "https://github.com/vinaysomawat/WhatsApp-Bot",
-            techStack: ["Python"],
+            techStack: ["Selenium", "Chrome Webdriver", "Python"],
+        },
+        {
+            projectName: "Bill Generator",
+            image: "images/billgenerator.png",
+            summary:
+                "GUI to transfer data to excel sheets and generate bills on the local shops.",
+            preview: "https://github.com/vinaysomawat/Bill-Generator",
+            techStack: ["Tkinter", "Openxlpy", "Python"],
+        },
+    ],
+    androidProjects: [
+        {
+            projectName: "NITW-CSE",
+            image: "images/nitwcse.jpg",
+            summary:
+                "The Application display details of Department courses, reference books, research, publication and faculty profile.",
+            preview: "https://github.com/vinaysomawat/NITW-CSE",
+            techStack: ["JAVA", "XML", "Android"],
+        },
+        {
+            projectName: "CareerHigh-App",
+            image: "images/carrerhigh.png",
+            summary:
+                "The Application display the webpages of website careerhigh.in in android devices.",
+            preview: "https://github.com/vinaysomawat/CareerHigh-Android",
+            techStack: ["JAVA", "XML", "Android"],
         },
     ],
     freelanceProjects: [
         {
-            projectName: "coming.com",
+            projectName: "SnylloAir.com",
             image: "images/snylloair.png",
             summary:
-                "Coming Soon.",
-            preview: "https://github.com/nmmarcelnv",
-            techStack: ["Python",],
+                "Developed a company website to showcase the purpose, services and products provided by the company to audience.",
+            preview: "https://www.snylloair.com/",
+            techStack: ["Bootstrap", "JavaScript", "AWS-S3"],
+        },
+        {
+            projectName: "Delivery+",
+            image: "images/AM-Logo-.png",
+            summary: "Android Application to display website in android devices.",
+            preview:
+                "https://play.google.com/store/apps/details?id=com.americanmarket.americanmarketandroid",
+            techStack: ["Android", "JAVA", "Play Store"],
         },
     ],
 };
